@@ -1,0 +1,14 @@
+#title-id
+{
+    color: red;
+    font-size: 100px;
+    font-style: italic;
+    background-color:bisque;
+    background-size: auto;
+    border-radius: 0 0 10% 0; 
+}
+
+#btn-translate 
+{
+    background-color: green; 
+}
